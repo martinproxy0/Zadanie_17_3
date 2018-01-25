@@ -1,0 +1,1 @@
+{"menu":{"id":"file","value":"File","popup":{"menuitem":[{"value":"New","onclick":"CreateNewDoc()"},{"value":"Open","onclick":"OpenDoc()"},{"value":"Close","onclick":"CloseDoc()"}]}},"notes":{"note":"test","note_1516917312674":"test","note_1516917747704":"test"}}
